@@ -693,3 +693,22 @@ p.capitalize:first-letter {
 .mainTitle {
 	text-shadow: 1px 1px 1px #000;
 }
+
+#tweet {
+	position: absolute;
+	left: 10px;
+	z-index: 300;
+}
+
+#hatena {
+	position: absolute;
+	left: 110px;
+	z-index: 300;
+}
+
+#share {
+	position: fixed;
+	top: 30px;
+	width: 100%;
+	z-index: 300;
+}
