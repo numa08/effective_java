@@ -360,7 +360,17 @@ p.capitalize:first-letter {
 	margin: 0 auto;
 }
 
+#headerwrap .img-license {
+	position: relative;
+	top: 100px;
+	left: 20px;
+	color: #858585;
+	text-shadow: 1px 1px 1px #000;
+}
 
+#headerwrap .img-license a {
+	color: white;
+}
 
 
 /* Footer Wrap */
